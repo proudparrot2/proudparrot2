@@ -8,7 +8,7 @@
 
 ### Socials 📩
 <div id="badges">
-  <a href="https://www.youtube.com/channel/UCh2NuVdcD7IdzxO__wQSEEQ">
+  <a href="https://www.youtube.com/@proudparrot2">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://discord.gg/QttAFS8amp">
