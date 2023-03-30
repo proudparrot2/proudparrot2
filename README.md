@@ -4,7 +4,7 @@
  </div>
  
  ### About Me 👨‍💻
- Hi, my name is Parrot, otherwise known around the internet as proudparrot2. I do frontend dev making unblocked games and other unblocking utilities. I also own/administrate various Discord servers. I sometimes make discord.js bots as a hobby.
+ Hi, my name is Parrot, otherwise known around the internet as proudparrot2. I do frontend dev making unblocked games, proxies, and other unblockimg utikities, I also own/administrate various Discord servers. I sometimes make discord.js bots as a hobby.
 
 ### Socials 📩
 <div id="badges">
