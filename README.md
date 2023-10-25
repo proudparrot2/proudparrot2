@@ -1,25 +1,23 @@
-<div align="center">
-  <h1>Hello there! 👋</h1>
-  <img src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Man coding gif"/>
- </div>
- 
- ### About Me 👨‍💻
-- Frontend web developer
-- Discord.js developer
-- Student
+# Hello world 👋
 
-### Socials 📩
-<div id="badges">
-  <a href="https://www.youtube.com/@proudparrot2">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://discord.gg/QttAFS8amp">
-    <img src="https://img.shields.io/badge/Discord Server-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-  <a href="https://twitter.com/proudparrot2">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+I'm proudparrot2, a fullstack (ish) web developer.
 
+## Projects
+- [Art Class](https://github.com/art-class/v4)
+- [FlowOS](https://github.com/flow-works/flowos-2.0)
+- Mocha (coming soon)
+- Bunker (coming soon)
 
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/proudparrot2/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/proudparrot2/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/proudparrot2/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+## Languages/tools I use
+![image](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![image](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![image](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![image](https://img.shields.io/badge/tailwind%20css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![image](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+![image](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![image](https://img.shields.io/badge/bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![image](https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+## Stats
+![image](https://metrics.lecoq.io/proudparrot2?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FChicago)
