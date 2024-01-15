@@ -4,8 +4,7 @@ I'm proudparrot2, a fullstack (ish) web developer.
 
 ## Projects
 - [Art Class](https://github.com/art-class/v4)
-- [FlowOS](https://github.com/flow-works/flowos-2.0)
-- Mocha (coming soon)
+- [Mocha](https://github.com/cafe-labs/mocha)
 - Bunker (coming soon)
 
 ## Stats
